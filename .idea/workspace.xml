@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa6afbb-3304-468c-8395-2a012ae8bcfb" name="Changes" comment="[VUE] first commit">
-      <change afterPath="$PROJECT_DIR$/frontend/pom.xml" afterDir="false" />
+    <list default="true" id="9fa6afbb-3304-468c-8395-2a012ae8bcfb" name="Changes" comment="[VUE] frontend module added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649789571678</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[VUE] frontend module added">
+      <created>1649790465075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649790465075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[VUE] first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="[VUE] first commit" />
+    <MESSAGE value="[VUE] frontend module added" />
+    <option name="LAST_COMMIT_MESSAGE" value="[VUE] frontend module added" />
   </component>
 </project>
